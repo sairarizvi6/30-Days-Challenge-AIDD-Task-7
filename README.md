@@ -1,10 +1,10 @@
 📘 SPECKit Plus — A Step-by-Step Project Development Framework
 
-SPECKit Plus is a structured and systematic framework designed to help developers build projects efficiently—from idea to final product. It guides 
+SPECKit Plus is a structured and systematic framework designed to help developers build projects efficiently—from idea to final product. 
 
-you through every stage of development, ensuring clarity, organization, and high-quality output.With SPECKit Plus, you can define your project, 
+It guides you through every stage of development, ensuring clarity, organization, and high-quality output.With SPECKit Plus, 
 
-map out requirements, plan effectively, break work into doable tasks, and implement clean, error-free code.
+you can define your project, map out requirements, plan effectively, break work into doable tasks, and implement clean, error-free code.
 
 🔑 Core Concepts of SPECKit Plus
 
