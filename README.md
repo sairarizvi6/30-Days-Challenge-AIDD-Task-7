@@ -1,4 +1,4 @@
-📘 #<ins>SPECKit Plus (A Step-by-Step Project Development Framework)</ins>
+📘 #<ins>SPECKit Plus (A Step-by-Step Project Development Framework)</ins>#
 
 **SPECKit Plus** is a structured and systematic framework designed to help developers build projects efficiently from idea to final product. 
 
