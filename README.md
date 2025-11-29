@@ -12,13 +12,13 @@ you can define your project,map out requirements,plan effectively,break work int
 
 <ins>Defines the foundation of the project</ins>:
 
-***What the project is***
+1-***What the project is***
 
-***Why it is needed***
+2-***Why it is needed***
 
-***The problem it solves***
+3-***The problem it solves***
 
-***The value it provides***
+4-***The value it provides***
 
 2️⃣ /**<ins>Specify**</ins> (Requirements)
 
