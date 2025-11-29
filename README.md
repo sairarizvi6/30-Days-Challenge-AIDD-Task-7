@@ -72,12 +72,12 @@ you can define your project,map out requirements,plan effectively,break work int
 
 🎯 **<ins>Why Use SPECKit Plus**<ins>?
 
-***Ensures a clear structure from start to finish***
+👉***Ensures a clear structure from start to finish***
 
-***Reduces confusion and development errors***
+👉***Reduces confusion and development errors***
 
-***Improves productivity and organization***
+👉***Improves productivity and organization***
 
-***Ideal for both beginners and professionals***
+👉***Ideal for both beginners and professionals***
 
-***Helps you build high-quality projects with confidence***
+👉***Helps you build high-quality projects with confidence***🚀
