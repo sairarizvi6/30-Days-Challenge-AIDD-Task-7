@@ -1,83 +1,83 @@
-📘 #<ins>SPECKit Plus (A Step-by-Step Project Development Framework)</ins>#
+📘 **<ins>SPECKit Plus (A Step-by-Step Project Development Framework)</ins>**
 
 **SPECKit Plus** is a structured and systematic framework designed to help developers build projects efficiently from idea to final product. 
 
 It guides you through every stage of development,ensuring clarity,organization and high-quality output.With SPECKit Plus, 
 
-you can define your project,map out requirements,plan effectively,break work into doable tasks and implement clean error-free code.
+you can define your project,map out requirements,plan effectively,break work into doable tasks and implement clean error free code.
 
-🔑 **Core Concepts of SPECKit Plus**
+🔑 **<ins>Core Concepts of SPECKit Plus</ins>**
 
-1️⃣ /**constitution** (Project Purpose)
+1️⃣ /**<ins>constitution</ins>** (Project Purpose)
 
-##Defines the foundation of the project:
+<ins>Defines the foundation of the project</ins>:
 
-What the project is
+*What the project is
 
-Why it is needed
+*Why it is needed
 
-The problem it solves
+*The problem it solves
 
-The value it provides
+*The value it provides
 
-2️⃣ /specify – Requirements
+2️⃣ /**<ins>specify**</ins> (Requirements)
 
-Documents all functional and non-functional requirements:
+*Documents all functional and non-functional requirements:
 
-Features
+*Features
 
-Inputs & outputs
+*Inputs & outputs
 
-Rules & constraints
+*Rules & constraints
 
-User flows
+*User flows
 
-System behavior
+*System behavior
 
-3️⃣ /plan – Roadmap
+3️⃣ /**<ins>plan**</ins> (Roadmap)
 
-Outlines the entire development strategy:
+*Outlines the entire development strategy:
 
-What to build first, next, and last
+*What to build first,next and last
 
-Tools, technologies, and architecture
+*Tools,technologies and architecture
 
-Milestones and timelines
+*Milestones and timelines
 
-Potential risks and solutions
+*Potential risks and solutions
 
-4️⃣ /tasks – Work Breakdown
+4️⃣ /**<ins>tasks**</ins> (Work Breakdown)
 
-Breaks the project into manageable, actionable tasks:
+*Breaks the project into manageable,actionable tasks:
 
-Smaller units of work
+*Smaller units of work
 
-Clear priorities
+*Clear priorities
 
-Organized workflow
+*Organized workflow
 
-Smooth progress tracking
+*Smooth progress tracking
 
-5️⃣ /implement – Build & Execute
+5️⃣ /**<ins>implement**</ins> (Build & Execute)
 
-The coding phase where everything comes together:
+*The coding phase where everything comes together:
 
-Writing and organizing code
+*Writing and organizing code
 
-Testing & debugging
+*Testing & debugging
 
-Refining features
+*Refining features
 
-Completing the final deliverable
+*Completing the final deliverable
 
-🎯 Why Use SPECKit Plus?
+🎯 **<ins>Why Use SPECKit Plus**<ins>?
 
-Ensures a clear structure from start to finish
+*Ensures a clear structure from start to finish
 
-Reduces confusion and development errors
+*Reduces confusion and development errors
 
-Improves productivity and organization
+*Improves productivity and organization
 
-Ideal for both beginners and professionals
+*Ideal for both beginners and professionals
 
 Helps you build high-quality projects with confidence
