@@ -24,51 +24,51 @@ you can define your project,map out requirements,plan effectively,break work int
 
 **Documents all functional and non-functional requirements**:
 
-***Features***
+1-***Features***
 
-***Inputs & outputs***
+2-***Inputs & outputs***
 
-***Rules & constraints***
+3-***Rules & constraints***
 
-***User flows***
+4-***User flows***
 
-***System behavior***
+5-***System behavior***
 
 3️⃣ /**<ins>Plan**</ins> (Roadmap)
 
 **Outlines the entire development strategy**:
 
-***What to build first,next and last***
+1-***What to build first,next and last***
 
-***Tools,technologies and architecture***
+2-***Tools,technologies and architecture***
 
-***Milestones and timelines***
+3-***Milestones and timelines***
 
-***Potential risks and solutions***
+4-***Potential risks and solutions***
 
 4️⃣ /**<ins>Tasks**</ins> (Work Breakdown)
 
 **Breaks the project into manageable,actionable tasks**:
 
-***Smaller units of work***
+1-***Smaller units of work***
 
-***Clear priorities***
+2-***Clear priorities***
 
-***Organized workflow***
+3-***Organized workflow***
 
-***Smooth progress tracking***
+4-***Smooth progress tracking***
 
 5️⃣ /**<ins>Implement**</ins> (Build & Execute)
 
 **The coding phase where everything comes together**:
 
-***Writing and organizing code***
+1-***Writing and organizing code***
 
-***Testing & debugging***
+2-***Testing & debugging***
 
-***Refining features***
+3-***Refining features***
 
-***Completing the final deliverable***
+4-***Completing the final deliverable***
 
 🎯 **<ins>Why Use SPECKit Plus**<ins>?
 
